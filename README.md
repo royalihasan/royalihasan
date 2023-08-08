@@ -24,24 +24,22 @@
 
 ### About Me
 
-Greetings! I'm Roy Ali Hasan, a passionate Full Stack Web Developer based in Vehari, Punjab, Pakistan. With over 2 years of experience, I'm committed to creating cutting-edge applications that cater to diverse business needs.
+Greetings! I'm Roy Ali Hasan, a passionate full-stack web developer based in Vehari, Punjab, Pakistan. With over two years of experience, I'm committed to creating cutting-edge applications that cater to diverse business needs.
 
 ### My Tech Journey
 
-My journey in web development started over 2 years ago. I've honed my skills in various domains, including Nodejs, Reactjs, and Full-Stack Development. I've embraced challenges and developed solutions that cater to both basic and complex projects.
+My journey in web development started over 2 years ago. I've honed my skills in various domains, including Node.js, Reactjs, and Full-Stack Development. I've embraced challenges and developed solutions that cater to both basic and complex projects.
 
 ### Embracing Innovation
 
 My passion extends beyond coding to the fascinating world of Apache Kafka and Artificial Intelligence. I firmly believe in the power of AI and strive to integrate machine learning into my projects, envisioning a future where innovation drives human progress.
 
-### Problem Solving and System Design
+### Problem-Solving and System Design
 
 As a problem solver, I embrace the intricacies of system design and distributed systems. I weave robust architectures that withstand scale and time. Tackling intricate technical challenges brings me joy, and I'm proud of arriving at elegant solutions.
 
 <!-- Languages & Skills -->
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/skills.png" alt="Languages & Skills">
-</p>
+<h2 align="center">Languages & Skill</h2>
 
 ### Skills & Tools
 
@@ -50,7 +48,7 @@ As a problem solver, I embrace the intricacies of system design and distributed 
 <div align="center">
 	<table>
 		<tr>
-			<td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
+		<td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
 			<td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
 			<td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
 			<td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code></td>
@@ -64,7 +62,7 @@ As a problem solver, I embrace the intricacies of system design and distributed 
 <div align="center">
 	<table>
 		<tr>
-			<td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+	 <td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
 			<td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
 			<td><code><img width="120" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
 		</tr>
