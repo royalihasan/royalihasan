@@ -14,9 +14,11 @@ Backend engineer. Building distributed systems that run in production.
 
 ## What I am building
 
-**[Visapot](https://github.com/royalihasan/visapot)** — Early-stage startup. Globally deployed visa tracking and community platform where applicants monitor progress, explore live embassy approval and rejection rates, post questions, and connect with a growing traveler community worldwide.
+**[Visapot](https://visapot.com)** — Early-stage startup. Globally deployed visa tracking and community platform where applicants monitor progress, explore live embassy approval and rejection rates, post questions, and connect with a growing traveler community worldwide.
 
 Sole engineer responsible for the entire product from system design to live production. Grown to 2,000+ active users with zero paid marketing.
+
+[Website](https://visapot.com) · [Play Store](https://play.google.com/store/apps/details?id=com.visapot) · [App Store](https://apps.apple.com/de/app/visapot/id6760598912)
 
 `Golang` `GCP` `PostgreSQL` `Supabase` `Flutter` `Vue.js` `Firebase` `Protobuf` `GitHub Actions` `Docker`
 
@@ -48,4 +50,4 @@ Medium
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/royalihasan) · [Email](mailto:royalihasan0987@gmail.com) · [Medium](https://medium.com/@royalihasan)
+[LinkedIn](https://www.linkedin.com/in/royalihasan) · [Email](mailto:royalihasan0987@gmail.com) · [Website](https://www.royalihasan.me)
