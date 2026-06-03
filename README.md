@@ -34,7 +34,7 @@ Greater than 95% spam detection accuracy. Less than 5% false positive rate. Sub-
 
 ## Core stack
 
-Java · Spring Boot · Apache Kafka · Golang · PostgreSQL · Docker · GCP · Protobuf · GitHub Actions · Python · Node.js · Kubernetes
+Java · Spring Boot · Apache Kafka · Golang · PostgreSQL · Docker · GCP · Protobuf · CI/CD · Python · Node.js · Kubernetes
 
 ---
 
