@@ -14,7 +14,7 @@ Backend engineer. Building distributed systems that run in production.
 
 ## What I am building
 
-**[Visapot](https://visapot.com)** — Early-stage startup. Globally deployed visa tracking and community platform where applicants monitor progress, explore live embassy approval and rejection rates, post questions, and connect with a growing traveler community worldwide.
+**[Visapot](https://visapot.com)**: Early-stage startup. Globally deployed visa tracking and community platform where applicants monitor progress, explore live embassy approval and rejection rates, post questions, and connect with a growing traveler community worldwide.
 
 Sole engineer responsible for the entire product from system design to live production. Grown to 2,000+ active users with zero paid marketing.
 
@@ -24,7 +24,7 @@ Sole engineer responsible for the entire product from system design to live prod
 
 ---
 
-**[Texurix](https://github.com/royalihasan/texurix)** — Telecom-grade SMS gateway with real-time AI spam detection. Every outbound message passes through a Hybrid CNN model trained on 55,000 messages before reaching the carrier.
+**[Texurix](https://github.com/royalihasan/texurix)**: Telecom-grade SMS gateway with real-time AI spam detection. Every outbound message passes through a Hybrid CNN model trained on 55,000 messages before reaching the carrier.
 
 Greater than 95% spam detection accuracy. Less than 5% false positive rate. Sub-100ms inference. Full Kafka pipeline from intake to SMPP delivery.
 
@@ -41,7 +41,7 @@ Java · Spring Boot · Apache Kafka · Golang · PostgreSQL · Docker · GCP · 
 ## Writing
 
 **[Integrating Oracle Database with Debezium and Kafka Connect for CDC](https://medium.com/@royalihasan/integrating-oracle-database-with-debezium-and-kafka-connect-for-cdc-change-data-capture-f44d758e7f69)**
-9,500 views · 5,700 reads · 60% read ratio · Ranks second on Google for "Oracle Debezium Kafka CDC integration" — right next to official Debezium documentation
+9,500 views · 5,700 reads · 60% read ratio · Ranks second on Google for "Oracle Debezium Kafka CDC integration" , right next to official Debezium documentation
 
 **[Node.js in Production: How the process Module Improves Performance, Stability, and Scaling](https://medium.com/@royalihasan)**
 Medium
